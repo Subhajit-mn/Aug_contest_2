@@ -1,0 +1,43 @@
+
+.nav{
+    background-color: black;
+    color: white;
+    padding: 5px;
+    position: sticky;
+    top: 0;
+    width: 100%;
+}
+.nav>h3{
+    display: inline-block;
+    width: 70%;
+    padding-left: 30px;
+}
+.nav>a{
+    text-decoration: none;
+    color: white;
+    padding-inline: 20px;
+}
+.table1{
+    background-color: antiquewhite;
+    width: 50%;
+    position: relative;
+    left: 25%;
+}
+#table1-id{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+#nested-table{
+    border-collapse: collapse;
+}
+.register{
+    width: 50%;
+    background-color: antiquewhite;
+    position: relative;
+    left: 25%;
+}
+#button{
+    width: 100%;
+    background-color: black;
+    color: white;
+}
